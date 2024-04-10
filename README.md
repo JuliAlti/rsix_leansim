@@ -1,3 +1,6 @@
+![image](https://github.com/JuliAlti/rsix_leansim/assets/166510892/04382b46-bd59-4446-a729-768261d3845b)
+
+
 # Rainbow Six Siege Leaning Simulator
 
 This project is a simple simulation of the leaning mechanics in the popular game Rainbow Six Siege. It allows users to lean left or right using the 'q' and 'e' keys, respectively, and move left or right using the 'a' and 'd' keys. The leaning bar is displayed in the center of the window, and a lamp indicator at the top of the screen changes color based on whether the player is in front of a simulated obstacle.
