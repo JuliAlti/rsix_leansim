@@ -27,7 +27,7 @@ This project is a simple simulation of the leaning mechanics in the popular game
 
 1. Download the PyInstaller build from the releases section of the repository.
 2. Extract the contents of the downloaded ZIP file.
-3. Run the executable file to launch the game.
+3. Run the executable file to launch the game (RSIX_Leansim/dist/rsix_leansim).
 
 ## Controls
 
