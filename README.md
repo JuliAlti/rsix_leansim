@@ -23,6 +23,12 @@ This project is a simple simulation of the leaning mechanics in the popular game
 2. Install dependencies: pip install pygame pynput
 3. Run the script: python main.py
 
+### Installation from PyInstaller Build
+
+1. Download the PyInstaller build from the releases section of the repository.
+2. Extract the contents of the downloaded ZIP file.
+3. Run the executable file to launch the game.
+
 ## Controls
 
 - Lean Left: Press 'q'
